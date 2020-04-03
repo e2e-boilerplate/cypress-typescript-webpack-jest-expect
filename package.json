@@ -1,19 +1,20 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect/issues"
+    "url": "https://github.com/e2e-boilerplate/cypress-typescript-webpack-jest-expect/issues"
   },
   "dependencies": {
     "@cypress/webpack-preprocessor": "4.1.3",
     "cypress": "4.3.0",
+    "cypress-jest-adapter": "0.1.1",
     "rimraf": "3.0.2",
     "ts-loader": "6.2.2",
     "typescript": "3.8.3",
     "webpack": "4.42.1"
   },
-  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Webpack, Chai and Expect.",
+  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Webpack, Jest and Expect.",
   "devDependencies": {
-    "@types/chai": "4.2.11",
+    "@types/jest": "25.1.5",
     "eslint-plugin-cypress": "2.10.3",
     "husky": "4.2.3",
     "lint-staged": "10.1.1",
@@ -23,7 +24,7 @@
     "tslint-plugin-prettier": "2.3.0",
     "webpack-cli": "3.3.11"
   },
-  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect#readme",
+  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-webpack-jest-expect#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -31,13 +32,13 @@
   },
   "keywords": [
     "boilerplate",
-    "chai",
     "cypress",
     "e2e",
     "e2e tests",
     "example",
     "expect",
     "integration test",
+    "jest",
     "typescript",
     "webpack"
   ],
@@ -47,10 +48,10 @@
       "prettier --write"
     ]
   },
-  "name": "cypress-typescript-webpack-chai-expect",
+  "name": "cypress-typescript-webpack-jest-expect",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-webpack-chai-expect.git"
+    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-webpack-jest-expect.git"
   },
   "scripts": {
     "build": "npx webpack --entry ./cypress/integration/*.ts",

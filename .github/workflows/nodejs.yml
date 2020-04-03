@@ -1,4 +1,4 @@
-name: cypress-typescript-webpack-chai-expect
+name: cypress-typescript-webpack-jest-expect
 'on':
   push: null
   schedule:
