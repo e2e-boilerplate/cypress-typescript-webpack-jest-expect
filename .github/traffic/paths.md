@@ -1,5 +1,12 @@
-| referrer                                                               | count | uniques |
-| :--------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/cypress-typescript-webpack-jest-expect                | 4     | 1       |
-| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/actions        | 1     | 1       |
-| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/runs/556738350 | 1     | 1       |
+| referrer                                                                                                | count | uniques |
+| :------------------------------------------------------------------------------------------------------ | :---- | :------ |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect                                                 | 13    | 2       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/graphs/traffic                                  | 3     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/pulse                                           | 3     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/actions                                         | 2     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/pull/7                                          | 2     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/commit/7463ed922167fc3abddec0a549e97308c67566cf | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/commits                                         | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/commits/master                                  | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/pull/8                                          | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-webpack-jest-expect/runs/556738350                                  | 1     | 1       |
