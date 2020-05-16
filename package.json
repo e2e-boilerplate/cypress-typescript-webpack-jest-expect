@@ -32,16 +32,17 @@
     }
   },
   "keywords": [
-    "boilerplate",
     "cypress",
-    "e2e",
-    "e2e tests",
-    "example",
     "expect",
-    "integration test",
     "jest",
     "typescript",
-    "webpack"
+    "webpack",
+    "e2e",
+    "e2e tests",
+    "boilerplate",
+    "integration test",
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
