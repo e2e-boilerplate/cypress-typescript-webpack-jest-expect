@@ -2,7 +2,7 @@
     
 # Cypress Boilerplate
     
-Cypress end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [Webpack](https://webpack.js.org), [Jest](https://jestjs.io) and Expect.
+Cypress end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [Webpack](https://webpack.js.org), [Jest](https://jestjs.io) and Expect.. Clone or fork this repository.
     
 ## Getting Started
     
