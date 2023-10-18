@@ -15,7 +15,7 @@
   },
   "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Webpack, Jest and Expect.",
   "devDependencies": {
-    "@types/cypress-cucumber-preprocessor": "4.0.3",
+    "@types/cypress-cucumber-preprocessor": "4.0.4",
     "@types/jest": "26.0.24",
     "husky": "6.0.0",
     "lint-staged": "11.2.6",
